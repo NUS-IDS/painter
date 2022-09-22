@@ -21,5 +21,6 @@ https://www.nemanet.org/files/4813/8552/9230/Neurodiversity_1.pdf
 TBD: Our code for training models and configuration details 
 
 Datasets obtained from previous work: https://ojs.aaai.org/index.php/AAAI/article/view/21519
-The GCG collection is proprietary but the passages in the RAB passages are 
+
+The GCG collection is proprietary but the passages in the RAB collection are 
 available at https://www.britannica.com/list/25-famous-paintings-to-see-the-next-time-youre-in-florence
