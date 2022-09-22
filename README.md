@@ -15,6 +15,7 @@ described in this paper: https://jmlr.org/papers/volume21/20-074/20-074.pdf
 
 Guides based on which the generic cues and question templates were designed:
 https://www.terraamericanart.org/wp-content/uploads/2015/08/Terra-Discussing-Art-and-Anchor-Standards.pdf
+
 https://www.nemanet.org/files/4813/8552/9230/Neurodiversity_1.pdf
 
 TBD: Our code for training models and configuration details 
