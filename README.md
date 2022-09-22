@@ -1,12 +1,16 @@
-# Reflective questions in ArtQuest
+# Asking Reflective Questions in ArtQuest
 
 
 This repository will host the resources and code designed for asking reflective questions in ArtQuest.
 
 A demo version is available at https://nlp-platform.online/artquest3/
 
-QANLI dataset is described in [TODO]
-T5-large is available at [TODO]
+
+QANLI dataset is described in https://arxiv.org/abs/1809.02922. This dataset
+was used to learn to convert (QA) pairs to declarative sentences.
+
+Most of our models are based on the Text-To-Text Transfer Transformer or T5 (https://huggingface.co/t5-large)
+described in this paper: https://jmlr.org/papers/volume21/20-074/20-074.pdf
 
 
 Guides based on which the generic cues and question templates were designed:
