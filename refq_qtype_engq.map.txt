@@ -1,0 +1,33 @@
+What is the main idea of this painting?	C1	What did you think of the scene represented in this painting ?
+What is the theme of this painting?	C1	Did you like the theme of this painting?
+What scene is captured in this painting?	C1	How do you like the scene captured in this painting ?
+What visual elements were used in the painting?	C2	Did you like the visual aspects of this painting ?
+What colors were used in this painting?	C2	How do you find the colors used in this painting ?
+What shapes are represented in the painting?	C2	Did you enjoy the shapes represented in this painting?
+What patterns are expressed in the painting?	C2	What patterns in the painting appeal to you?
+What materials were used in this painting?	C2	What did you think of the materials used in the painting?
+What did the artist wanted to communicate in this painting?	C3	Do you think the artist successfully communicated the intent behind the painting?
+What feelings are conveyed in this painting?	C3	What feelings does this painting evoke in you?
+What mood is conveyed in the painting?	C3	What do you think of the mood in the painting?
+What attitude is reflected in the painting?	C3	What attitude does the painting reflect according to you?
+What emotion does the painting evoke?	C3	What emotions do you feel when you see this painting?
+What is the impact of this painting?	C3	Does this painting affect you in any way?
+What is the context of this painting?	C4	What did you think of the context in which this painting was made?
+What is the setting of this painting?	C4	Did you like the background in which this painting was made?
+when was this painting made?	C4	Did you know ?
+Where was this painting made?	C4	Isn't that interesting ?
+What is the message of the artwork?	C4	What do you think is the message of this painting ?
+What are the events during which the artwork was made?	C4	Did you know ?
+What life experiences influenced the artist in this painting?	C4	Did you know ?
+Who was this painting made for?	C4	Did you know ?
+Who was this painting commissioned for?	C4	Did you know ?
+When was this painting commissioned?	C4	Did you know ?
+What does this painting reveal about the artist's calibre?	C4	Do you find the artist's talent impressive ?
+What are the stylistic aspects of this painting?	C5	What stylistic aspects of this painting do you like ?
+What type of a painting is this?	C5	Do you like paintings of this type ?
+What style is used in this painting?	C5	Does this style in painting appeal to you ?
+What brushstrokes are shown in the painting?	C5	Did you like the brushwork in this painting ?
+What is the perspective used in the painting?	C5	Did you notice the perspective used in this painting ?
+What are the key details of this painting?	C5	What key details of the painting do you find interesting ?
+What does the artist portray in this painting?	C5	Do you like what the artist portrayed here ?
+What is the composition of this painting?	C5	Did you find the composition in this painting skillful ?
