@@ -24,3 +24,6 @@ Datasets obtained from previous work: https://ojs.aaai.org/index.php/AAAI/articl
 
 The GCG collection is proprietary but the passages in the RAB collection are 
 available at https://www.britannica.com/list/25-famous-paintings-to-see-the-next-time-youre-in-florence
+
+![image](https://user-images.githubusercontent.com/58678112/191722399-610f1a0d-13a3-4f98-b456-85d56e0aaad9.png)
+
