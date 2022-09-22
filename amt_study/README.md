@@ -12,6 +12,7 @@ Instructions:
 Actual Interface for Rating:
 
 ![image](https://user-images.githubusercontent.com/58678112/191719836-1eb11827-433b-433c-94a4-b46095626ec6.png)
-![image](https://user-images.githubusercontent.com/58678112/191719922-321718fd-44b3-4622-b60e-0fc18964fbb6.png)
+![image](https://user-images.githubusercontent.com/58678112/191720175-0f33e3aa-c8b3-4f21-b58d-360867a7ea9b.png)
+
 
 
