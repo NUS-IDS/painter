@@ -16,7 +16,7 @@ RAB         25            7-15
 Using these 46 passages, and our data augmentation technique, the number of utterance pairs for learning RQG = ~2.7K 
 
 
-Performance of Answer Correctness Classifier (T5-large trained on SQuAD2.0) on subset of manually-annotated (QA pairs)
+Performance of Answer Correctness Classifier (T5-large trained on SQuAD2.0) on manually-annotated (QA pairs from RoBERTa QA model on GCG/RAB)
 ![image](https://user-images.githubusercontent.com/58678112/191924482-b46489e9-790d-4c66-bcb3-f5a763381050.png)
 
 
