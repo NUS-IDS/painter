@@ -1,0 +1,7 @@
+C5	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .	I do not know anybody Realist, how about you?
+C3	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .	Do you think painting conveys confident, determined man?
+C3	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .	Did you know?
+C4	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .	Do you find the artist's talent impressive ?
+NER	He was a young adult when laws were changed in 1871 and Jews were granted the same rights as other German citizens .	Do you know anybody Jews?
+NP	In the German parliament , Liebermann ’s Twelve - Year - Old Jesus in the Temple ( 1879 ) was condemned as blasphemous because his Jesus was said to be “ too Jewish looking . ”	Isn't that interesting?
+NP	After Liebermann ’s death , the Hitler regime removed his works from German art galleries .	Do you know death?

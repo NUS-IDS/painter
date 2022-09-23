@@ -1,0 +1,165 @@
+QUESTION	What is the main idea of this painting?
+QTYPE	C1
+Answer	he
+Score	0.1234847903251648
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What is the theme of this painting?
+QTYPE	C1
+Answer	Jews were oppressed
+Score	0.21529540419578552
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	What scene is captured in this painting?
+QTYPE	C1
+Answer	Jesus in the Temple
+Score	0.02089041657745838
+PREMISE	In the German parliament , Liebermann ’s Twelve - Year - Old Jesus in the Temple ( 1879 ) was condemned as blasphemous because his Jesus was said to be “ too Jewish looking . ”
+QUESTION	What visual elements were used in the painting?
+QTYPE	C2
+Answer	palette , easel , and cloth
+Score	0.5936005115509033
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What colors were used in this painting?
+QTYPE	C2
+Answer	palette , easel , and cloth
+Score	0.01396660041064024
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What shapes are represented in the painting?
+QTYPE	C2
+Answer	palette , easel , and cloth
+Score	0.036879006773233414
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What patterns are expressed in the painting?
+QTYPE	C2
+Answer	The background of palette , easel , and cloth is painted impressionistically
+Score	0.1021127998828888
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What materials were used in this painting?
+QTYPE	C2
+Answer	palette , easel , and cloth
+Score	0.7513681054115295
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What did the artist wanted to communicate in this painting?
+QTYPE	C3
+Answer	working people as they actually were
+Score	0.04843873158097267
+PREMISE	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .
+QUESTION	What feelings are conveyed in this painting?
+QTYPE	C3
+Answer	not idealized or denigrated
+Score	0.01882466860115528
+PREMISE	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .
+QUESTION	What mood is conveyed in the painting?
+QTYPE	C3
+Answer	confident , determined man
+Score	0.0697440505027771
+PREMISE	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .
+QUESTION	What attitude is reflected in the painting?
+QTYPE	C3
+Answer	confident , determined man
+Score	0.13335709273815155
+PREMISE	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .
+QUESTION	What emotion does the painting evoke?
+QTYPE	C3
+Answer	confident , determined man
+Score	0.08593423664569855
+PREMISE	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .
+QUESTION	What is the impact of this painting?
+QTYPE	C3
+Answer	the viewer must not be distracted by anything
+Score	0.019684163853526115
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What is the context of this painting?
+QTYPE	C4
+Answer	Jews were oppressed .
+Score	0.12070029228925705
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	What is the setting of this painting?
+QTYPE	C4
+Answer	Berlin
+Score	0.07481669634580612
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	when was this painting made?
+QTYPE	C4
+Answer	1915
+Score	0.6052213311195374
+PREMISE	This painting is titled Self-Portrait (c. 1915)
+QUESTION	Where was this painting made?
+QTYPE	C4
+Answer	Uffizi
+Score	0.1739206612110138
+PREMISE	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .
+QUESTION	What is the message of the artwork?
+QTYPE	C4
+Answer	subversive
+Score	0.11824314296245575
+PREMISE	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .
+QUESTION	What are the events during which the artwork was made?
+QTYPE	C4
+Answer	Jews were oppressed .
+Score	0.07407864928245544
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	What life experiences influenced the artist in this painting?
+QTYPE	C4
+Answer	laws were changed in 1871
+Score	0.020271899178624153
+PREMISE	He was a young adult when laws were changed in 1871 and Jews were granted the same rights as other German citizens .
+QUESTION	Who was this painting made for?
+QTYPE	C4
+Answer	Jews
+Score	0.09442275762557983
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	Who was this painting commissioned for?
+QTYPE	C4
+Answer	Jews
+Score	0.0012699796352535486
+PREMISE	Max Liebermann was born in Berlin to a rich Jewish family at a time when Jews were oppressed .
+QUESTION	When was this painting commissioned?
+QTYPE	C4
+Answer	1915
+Score	0.6644688844680786
+PREMISE	This painting is titled Self-Portrait (c. 1915)
+QUESTION	What does this painting reveal about the artist's calibre?
+QTYPE	C4
+Answer	confident , determined man
+Score	0.28774645924568176
+PREMISE	In Self -Portrait ( in the Uffizi ) , Liebermann shows himself as a confident , determined man .
+QUESTION	What are the stylistic aspects of this painting?
+QTYPE	C5
+Answer	The background of palette , easel , and cloth
+Score	0.22095312178134918
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What type of a painting is this?
+QTYPE	C5
+Answer	Realist
+Score	0.2659735381603241
+PREMISE	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .
+QUESTION	What style is used in this painting?
+QTYPE	C5
+Answer	realistic style
+Score	0.06696200370788574
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What brushstrokes are shown in the painting?
+QTYPE	C5
+Answer	palette , easel , and cloth is painted impressionistically
+Score	0.00827083457261324
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What is the perspective used in the painting?
+QTYPE	C5
+Answer	impressionistically
+Score	0.10565490275621414
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What are the key details of this painting?
+QTYPE	C5
+Answer	The background of palette , easel , and cloth
+Score	0.18984700739383698
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
+QUESTION	What does the artist portray in this painting?
+QTYPE	C5
+Answer	working people as they actually were
+Score	0.10131469368934631
+PREMISE	His Realist paintings depicted working people as they actually were — not idealized or denigrated — and were seen as subversive .
+QUESTION	What is the composition of this painting?
+QTYPE	C5
+Answer	The background of palette , easel , and cloth is painted impressionistically
+Score	0.1320400983095169
+PREMISE	The background of palette , easel , and cloth is painted impressionistically , but his own image is painted in a more realistic style —he is the main focus , the viewer must not be distracted by anything .
