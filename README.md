@@ -18,12 +18,36 @@ https://www.terraamericanart.org/wp-content/uploads/2015/08/Terra-Discussing-Art
 
 https://www.nemanet.org/files/4813/8552/9230/Neurodiversity_1.pdf
 
-TBD: Our code for training models and configuration details 
+# Machine and Model configuration details 
+We performed all experiments on
+a single GPU of an Nvidia Tesla cluster machine. 
 
-Datasets obtained from previous work: https://ojs.aaai.org/index.php/AAAI/article/view/21519
+Source/target lengths for RQG model = 64/24
+
+PersonaChat dialog model = 512/32
+
+Converting QA pair to Declarative Sentence (QANLI dataset) = 128/64
+
+We fine-tune 
+the T5-large model from HuggingFace (https://huggingface.co/t5-large) for
+3-5 epochs. On the larger dataset (PersonaChat and QANLI), the training
+time is around ten hours and for our smaller RQG dataset, the training time is about 30 minutes.
+
+The batch size is set to 4, learning rate and eps parameters for the Adam optimizer are 1e-4 and 1e-8, respectively
+
+
+
+
+Datasets for RQG obtained from previous work: https://ojs.aaai.org/index.php/AAAI/article/view/21519
 
 The GCG collection is proprietary but the passages in the RAB collection are 
 available at https://www.britannica.com/list/25-famous-paintings-to-see-the-next-time-youre-in-florence
 
+#Overall Pipeline
+
+
 ![image](https://user-images.githubusercontent.com/58678112/191722399-610f1a0d-13a3-4f98-b456-85d56e0aaad9.png)
+
+
+
 
