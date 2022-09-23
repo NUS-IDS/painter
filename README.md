@@ -44,6 +44,7 @@ The GCG collection is proprietary but the passages in the RAB collection are
 available at https://www.britannica.com/list/25-famous-paintings-to-see-the-next-time-youre-in-florence
 
 #Overall Pipeline
+
 ![image](https://user-images.githubusercontent.com/58678112/191934223-bf4ea9af-70fd-4bce-aac8-dcdd9c7fe5b6.png)
 
 
