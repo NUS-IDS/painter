@@ -6,8 +6,8 @@ GCG dataset: contains painting passages from National Gallery Singapore (Proprie
 RAB dataset: passages on Ranaissance paintings (https://www.britannica.com/list/25-famous-paintings-to-see-the-next-time-youre-in-florence)
 
 
-Dataset #Passages #Sentences
+Dataset     #Passages     #Sentences
 
-GCG     21        3-10
+GCG         21            3-10
 
-RAB     25        7-15
+RAB         25            7-15
