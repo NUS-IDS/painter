@@ -26,6 +26,8 @@ Performance of TE approach (Convert QA to Declarative and do textual entailment 
 
 
 User Evaluation
+Fluency/Relevance/Engagingness (1-5 scale) whereas Specificity uses a (0, 1, 2) scale
+
 
 ![image](https://user-images.githubusercontent.com/58678112/191927288-c3d32358-19cb-4c8b-b66b-75d155f702d1.png)
 
