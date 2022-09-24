@@ -1,7 +1,7 @@
-# Asking Reflective Questions in ArtQuest
+# Asking Reflective Questions in ArtMuse
 
 
-This repository will host the resources and code designed for asking reflective questions in ArtQuest.
+This repository is for hosting the resources and code designed for asking reflective questions in ArtMuse.
 
 A demo version is available at https://nlp-platform.online/artquest3/
 
