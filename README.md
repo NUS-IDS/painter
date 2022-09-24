@@ -3,8 +3,7 @@
 
 This repository is for hosting the resources and code designed for asking reflective questions in ArtMuse.
 
-A demo version is available at https://nlp-platform.online/artquest3/
-
+A demo version is available at https://nlp-platform.online/artmuse
 
 QANLI dataset is described in https://arxiv.org/abs/1809.02922. This dataset
 was used to learn to convert (QA) pairs to declarative sentences, that are used for textual entailment check/answer correctness.
