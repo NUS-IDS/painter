@@ -32,5 +32,15 @@ Fluency/Relevance/Engagingness (1-5 scale) whereas Specificity uses a (0, 1, 2) 
 ![image](https://user-images.githubusercontent.com/58678112/191927288-c3d32358-19cb-4c8b-b66b-75d155f702d1.png)
 
 
+[CONTENT] C1 What is the main idea/theme/scene captured
+
+[VISUAL] C2 what visual elements/colors/patterns/shapes/materials
+
+[EMOTION] C3 what feelings/mood/emotion described/evoke
+
+[CONTEXT] C4 what setting/time/place of painting/patron/background/influences
+
+[STYLE] C5 what stylistic aspects/brushstrokes/perspective/key details
+
 
 
