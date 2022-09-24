@@ -7,7 +7,7 @@ A demo version is available at https://nlp-platform.online/artquest3/
 
 
 QANLI dataset is described in https://arxiv.org/abs/1809.02922. This dataset
-was used to learn to convert (QA) pairs to declarative sentences.
+was used to learn to convert (QA) pairs to declarative sentences, that are used for textual entailment check/answer correctness.
 
 Most of our models are based on the Text-To-Text Transfer Transformer or T5 (https://huggingface.co/t5-large)
 described in this paper: https://jmlr.org/papers/volume21/20-074/20-074.pdf
