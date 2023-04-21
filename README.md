@@ -3,7 +3,7 @@
 
 This repository is for hosting the resources and code designed for asking reflective questions in ArtMuse.
 
-(AAAI demo track)
+(AAAI demo track submission: Preprint upon request)
 
 
 A demo version is available at https://nlp-platform.online/artmuse
