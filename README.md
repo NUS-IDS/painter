@@ -3,6 +3,9 @@
 
 This repository is for hosting the resources and code designed for asking reflective questions in ArtMuse.
 
+(AAAI demo track)
+
+
 A demo version is available at https://nlp-platform.online/artmuse
 
 QANLI dataset is described in https://arxiv.org/abs/1809.02922. This dataset
